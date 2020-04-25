@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="formula_text"></string>
+</resources>
